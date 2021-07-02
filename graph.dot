@@ -34,11 +34,23 @@ digraph {
 
 /*
 SOMEBODY'S GOTTA PAY
---------------------
+====================
 A murder myster where there is more than meets the eye, and everyone, including the player, is guilty of drawing false conclusions.
 
+CHARACTERS
+==========
 
-IDEAS
+You - down on your luck detective
+Alice - your secretary, has a thing for you
+Mr. Dench - local billionair and asshole
+Mrs. Dench - Billonair's wife, total knockout, quickly dead
+Bishop - Mr. Dench's assistant, crooked, mean, and unscrupulous
+Frank - Police chief, once helped you, now ridicules you
+Ted - Mrs. Dench's brother, bankrupt due to failed business
+Mason - Mrs. Dench's aide
+
+IDEAS/NOTES
+===========
 
 Mr Dench in office, on phone, angry, leaves.  Choose to follow, or search office.
 If follow, see confrontation and payoff with Mason, new Mason lead.
@@ -48,24 +60,72 @@ Attend funeral or ??.  Meet Ted.
 
 Frank & blackmail
 You realize you weren't the one who bungled the embezzlement case, Frank did it on purpose to take the opportunity to blackmail Mr. Dench and blamed you.  You don't have to prove it, you just have to confront him, even if it that isn't true, it will ruin his career.
-*/
 
-/*
- What really happened (?):
+Maybe Mr. Dench just wants proof on who is blackmailing him, hires you to follow her, and hires Bishop to follow you to vet your story.  Shocked when she is killed, knows it was either you or Bishop, but also knows Bishop has too much dirt on him that he will use to bargain with if he is caught, so forced to collude in framing you, even if you didn't do it.
 
- Mr. Dench embezzled funds from Mrs. Dench's brother Ted's company.  Ted went bankrupt and was suspcious so he hired you, back at the beginning of your career.  You sought help from Frank, but messed up chain of custody, so the case was thrown out.  Soon after that, Mr. Dench received blackmail letters.  Dench suspected you bungled the case on purpose to blackmail him, and kept a file on you.
+At the very end, after protecting Alice, you get a job on the police force since Frank is impressed with your work, all is well, but from time to time you lay awake at night from your guilt of framing someone innocent.  Especially after it crosses your mind that Alice didn't mean to kill Mrs. Dench - she was aiming at you.
+
+Does Mrs. Dench want Mr. Dench to stop paying the blackmailer?  They argue and Mason overhears.  Mrs. Dench was tired of losing money and wanted to stop paying, but Mr. Dench refused to ruin his name and face charges.
+
+
+What really happened (?)
+-------------------------
+
+Mr. Dench embezzled funds from Mrs. Dench's brother Ted's company.  Ted went bankrupt and was suspcious so he hired you, back at the beginning of your career.  You sought help from Frank, but messed up chain of custody, so the case was thrown out.  Soon after that, Mr. Dench received blackmail letters.  Dench suspected you bungled the case on purpose to blackmail him, and kept a file on you.
 
 Actually, it was his greedy and unscrupulous assistant Bishop who had assisted in the embezzling and saw the opportunity to blackmail Mr. Dench. Eventually Mrs. Dench found a blackmail letter in Bishop's office and took it to confront him.  However Bishop found out and reported her to Mr. Dench, blaming her.  He took the bait and thought perhaps she was working with you, and hatched a scheme to entrap you and his wife.  But when Alice shot Mrs. Dench, he took the opportunity to frame you for her muder, killing two birds with one stone.
 
 
 
+POSSIBLE MOTIVATIONS
+====================
 
 
+Blackmail
+---------
+Mr. Dench is being blackmailed about embezzling from Ted's company.
 
-Other motivations:
+Alice
+-
 
-Mrs. Dench was tired of losing money and wanted to stop paying, but Mr. Dench refushed to ruin his name and face charges.
+Bishop
+Knows about the embezzling because he helped, and thinks he can make some extra cash by blackmailing Mr. Dench, who wouldn't ever suspect him.
 
+Frank
+Knows about the embezzling because helped you on the case, and he realized he could mess up the evidence so the case would be dropped, giving him the opportunity to blackmail Mr. Dench.
+
+Mrs. Dench
+Angry because her husband caused her brother's bankruptcy, so secretly blackmails him and gives the money to her brother under the table to repay him.
+
+Ted
+Suspects Mr. Dench ruined his business, hired you to investigate which was unsuccessful, blackmails Mr. Dench to see if he would pay, thus incriminating himself, and decides to keep the blackmail going when it works.
+
+Mason
+?
+
+
+Murder
+------
+Mrs. Dench is killed while you are following her.
+
+Alice
+Jealous of Mrs. Dench because she mistakenly thinks you are rekindling an affair with her.
+
+Bishop
+Following orders from Mr. Dench and framing you
+Worried Mrs. Dench has discovered him as the blackmailer, needs to silence her, pins it on you
+
+Frank
+? Worried Mrs. Dench has discovered him as the blackmailer, needs to silence her, pins it on you
+
+Mr. Dench
+Thinks his wife is the blackmailer, has Bishop kill her for her treachery and pins it on you
+
+Ted
+? Thinks his sister turned against him to participate in the embezzling for her own greed.
+
+Mason
+-
 
 
 
